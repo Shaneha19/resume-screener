@@ -1,0 +1,4 @@
+Anita Sharma - B.Tech Computer Science
+3 years of experience as a Python developer. Skills: Python, Machine Learning, Pandas, NumPy,
+Scikit-learn, SQL, Git, Docker, Flask, NLP, REST API. Built a spam classifier and deployed it using Docker.
+Strong communication and problem solving.

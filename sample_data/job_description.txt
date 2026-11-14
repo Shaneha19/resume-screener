@@ -1,0 +1,4 @@
+Python Developer (Machine Learning)
+We need a Python developer with 2+ years of experience. Required skills: python, machine learning,
+pandas, numpy, scikit-learn, sql, git, docker, flask. Knowledge of nlp and rest api is a plus.
+Bachelor's degree (B.Tech/BCA/BSc) in Computer Science. Good communication and problem solving skills.
