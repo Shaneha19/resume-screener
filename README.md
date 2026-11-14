@@ -33,25 +33,3 @@ screener.py       Extraction + scoring engine
 test_screener.py  Unit tests
 sample_data/      Sample JD and resumes
 ```
-
-## 45-Day Plan
-| Days | Work |
-|------|------|
-| 1-5 | Problem study, literature on ATS / resume parsing, set up Python, Git, Streamlit |
-| 6-12 | Text extraction from PDF/DOCX, text cleaning |
-| 13-20 | TF-IDF, cosine similarity, skill dictionary and extraction |
-| 21-27 | Experience / education extraction, weighted scoring |
-| 28-35 | Streamlit UI, charts, CSV export |
-| 36-40 | Testing, bug fixes, accuracy check on 20+ resumes |
-| 41-45 | Documentation, report, PPT, demo / viva preparation |
-
-## Limitations and future scope
-- Scanned image PDFs need OCR (pytesseract)
-- Skill list is manual; can be extended with spaCy NER or an LLM
-- Upgrade similarity with sentence-transformers (BERT embeddings)
-- Add database, login, bias-check (hide name/gender) and email integration
-
-## Viva questions to prepare
-- Why TF-IDF and cosine similarity? What is a 1-2 gram?
-- Why not only keyword matching? (semantic gaps, keyword stuffing)
-- How would you reduce bias? How would you evaluate accuracy (precision / recall vs HR ranking)?
